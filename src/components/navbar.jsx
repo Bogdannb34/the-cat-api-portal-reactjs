@@ -21,7 +21,7 @@ const Navbar = () => {
       <NavInContainer>
         <LeftContainer>
           <NavLinkContainer>
-            <NavLink to="/home">Home</NavLink>
+            <NavLink to="/the-cat-api-portal-reactjs">Home</NavLink>
             <NavLink to="/upload"> Upload </NavLink>
             <NavLink to="/myImages">My Images</NavLink>
             <NavLink to="/publicImages">Public Images</NavLink>

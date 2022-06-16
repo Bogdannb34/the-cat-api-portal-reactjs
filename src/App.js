@@ -10,7 +10,7 @@ function App() {
     <div className="app__wrapper">
       <Navbar />
       <Switch>
-        <Route path="/home" component={Home} />
+        <Route path="/the-cat-api-portal-reactjs" component={Home} />
         <Route path='/upload' component={Upload} />
         <Route path='/myImages' component={MyImages} />
         <Route path='/publicImages' component={PublicImages} />

@@ -59,7 +59,7 @@ const Upload = () => {
     try {
       const response = await fetch(theCatUrl, params);
 
-      if (response.status !== 200) {
+      if (response.status !== 201) {
         setShowMsg("Oops...Something went wrong!");
         setTimeout(() => setShowMsg(""), 4000);
         const msg = `Something went wrong ${response.status}`;
