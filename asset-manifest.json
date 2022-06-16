@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/the-cat-api-portal-reactjs/static/css/main.258be8eb.chunk.css",
+    "main.js": "/the-cat-api-portal-reactjs/static/js/main.b440f307.chunk.js",
+    "main.js.map": "/the-cat-api-portal-reactjs/static/js/main.b440f307.chunk.js.map",
+    "runtime-main.js": "/the-cat-api-portal-reactjs/static/js/runtime-main.be1632f3.js",
+    "runtime-main.js.map": "/the-cat-api-portal-reactjs/static/js/runtime-main.be1632f3.js.map",
+    "static/css/2.fe62fa80.chunk.css": "/the-cat-api-portal-reactjs/static/css/2.fe62fa80.chunk.css",
+    "static/js/2.67b8a9e9.chunk.js": "/the-cat-api-portal-reactjs/static/js/2.67b8a9e9.chunk.js",
+    "static/js/2.67b8a9e9.chunk.js.map": "/the-cat-api-portal-reactjs/static/js/2.67b8a9e9.chunk.js.map",
+    "index.html": "/the-cat-api-portal-reactjs/index.html",
+    "precache-manifest.b61ea1d0679c3a451497fbc0c88fa254.js": "/the-cat-api-portal-reactjs/precache-manifest.b61ea1d0679c3a451497fbc0c88fa254.js",
+    "service-worker.js": "/the-cat-api-portal-reactjs/service-worker.js",
+    "static/css/2.fe62fa80.chunk.css.map": "/the-cat-api-portal-reactjs/static/css/2.fe62fa80.chunk.css.map",
+    "static/css/main.258be8eb.chunk.css.map": "/the-cat-api-portal-reactjs/static/css/main.258be8eb.chunk.css.map",
+    "static/js/2.67b8a9e9.chunk.js.LICENSE.txt": "/the-cat-api-portal-reactjs/static/js/2.67b8a9e9.chunk.js.LICENSE.txt",
+    "static/media/catsDogsLogo.png": "/the-cat-api-portal-reactjs/static/media/catsDogsLogo.98c1f5ca.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be1632f3.js",
+    "static/css/2.fe62fa80.chunk.css",
+    "static/js/2.67b8a9e9.chunk.js",
+    "static/css/main.258be8eb.chunk.css",
+    "static/js/main.b440f307.chunk.js"
+  ]
+}
