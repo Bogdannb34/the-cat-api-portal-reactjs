@@ -1,7 +1,7 @@
 # the-cat-api-portal-reactjs
-Cat pictures portal using thecatAPI and ReactJS / Styled-Components
+Cat pictures portal using thecatAPI and ReactJS / react-responsive-carousel / Styled-Components 
  
- - link here : 
+ - link here :  https://bogdannb34.github.io/the-cat-api-portal-reactjs/
  
  # Make the perfect Cat/Dog pictures portal
 
